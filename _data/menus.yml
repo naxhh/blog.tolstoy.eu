@@ -1,12 +1,12 @@
-- title: home
+- title: inicio
   url: /
   external: false
 
-- title: archive
+- title: archivos
   url: /archive/
   external: false
 
-- title: about
+- title: sobre mi
   url: /about/
   external: false
 
