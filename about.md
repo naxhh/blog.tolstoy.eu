@@ -1,18 +1,16 @@
 ---
-title: Colophon
+title: Ignacio Tolstoy
 permalink: /about/
 layout: page
-excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in Jogjakarta. This blog for documentation about my programming journey, running on jekyll, hosting on netlify and using my own simple theme.
+excerpt: Just another developer trying to enjoy life.
 comments: false
 ---
 
-He's a student from Banyuwangi, living in Jogjakarta. the blog for documentation about his programming 🎒 journey, running on jekyll, hosting on [now.sh](http://now.sh) and using his own theme, he name it <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">klisé</a>, he also loves to learning web technology; but he often forgot, that a reason why him doing the writing.
+Software engineer, actualmente trabajando para [New Relic](https://newrelic.com/) desde Barcelona, España.
 
-If you have a question about him or else, just send a letter to him.
+He decidido hacer este blog para compartir aquellos temas que me motivan sin orden ninguno aunque intentando tener un enfoque pedagógico.
+El motivo de escribir en castellano es que creo que hay ya hay demasiado contenido de calidad en inglés pero no el suficiente en castellano.
+Así que este es mi granito de arena para aportar contenido en castellano que, con suerte, también tendrá algo de calidad.
 
-You can [report](http://github.com/piharpi/jekyll-klise/issues/new) if there is an broken link(s) or somethings else.
 
-**may u needs ✨**
-
-- {{ site.author.email }}
-- github.com/{{ site.author.github }}
+Este [blog es público en github](https://github.com/naxhh/blog.tolstoy.eu/issues/new) así que todas aquellas faltas de ortografía o preguntas puedes dirigirlas allí.
